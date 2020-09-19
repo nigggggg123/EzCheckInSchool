@@ -82,7 +82,7 @@ Fork的项目->Action->I understand... 开启Actions
 |`POST`|`https://reportedh5.17wanxiao.com/api/passcard/queryOrg`|`response.json`|
 
 ### 捐赠
-最后，如果觉得这个项目对你有帮助的话
+最后，如果觉得这个项目对你有帮助的话   
 
 ![Donate](https://s1.ax1x.com/2020/09/15/wcPVqP.png)
 
